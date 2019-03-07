@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\bin\Debug\LINQTOSQL_2.exe.config
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\bin\Debug\LINQTOSQL_2.exe
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\bin\Debug\LINQTOSQL_2.pdb
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\obj\Debug\LINQTOSQL_2.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\obj\Debug\LINQTOSQL_2.Form1.resources
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\obj\Debug\LINQTOSQL_2.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\obj\Debug\LINQTOSQL_2.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\obj\Debug\LINQTOSQL_2.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\obj\Debug\LINQTOSQL_2.exe
+C:\Users\Section2\source\repos\NT_LINQTOSQL_2\LINQTOSQL_2\obj\Debug\LINQTOSQL_2.pdb
